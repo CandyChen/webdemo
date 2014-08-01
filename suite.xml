@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests" thread-count="1">
+	<test name="Jumei Test" preserve-order="false">
+		<classes>
+			<!-- <class name="com.jumei.autotest.testcase.NormalShoppingTest" /> -->
+			<class name="com.jumei.autotest.testcase.FirstDemo" />
+		</classes>
+
+	</test>
+<!-- 	<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter" />
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+    </listeners>
+    <usedefaultlisteners name="false" /> -->
+</suite>

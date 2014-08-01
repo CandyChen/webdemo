@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23224" started-at="2014-07-31T06:27:28Z" finished-at="2014-07-31T06:27:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23224" started-at="2014-07-31T06:27:28Z" finished-at="2014-07-31T06:27:51Z">
+      <class name="com.jumei.autotest.testcase.FirstDemoTest">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.jumei.autotest.testcase.FirstDemoTest@2b86616b]" name="start" is-config="true" duration-ms="20704" started-at="2014-07-31T14:27:28Z" finished-at="2014-07-31T14:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:com.jumei.autotest.testcase.FirstDemoTest@2b86616b]" name="openUrl" duration-ms="509" started-at="2014-07-31T14:27:49Z" finished-at="2014-07-31T14:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jumei.autotest.testcase.FirstDemoTest@2b86616b]" name="tearDown" is-config="true" duration-ms="1999" started-at="2014-07-31T14:27:49Z" finished-at="2014-07-31T14:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jumei.autotest.testcase.FirstDemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

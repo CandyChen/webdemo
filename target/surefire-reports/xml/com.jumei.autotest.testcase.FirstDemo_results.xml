@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Jumei Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.051">
+  <properties />
+  
+  
+            <testcase name="openUrl" time="1.051" classname="com.jumei.autotest.testcase.FirstDemo" />
+      
+</testsuite>
